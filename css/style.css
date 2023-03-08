@@ -1,0 +1,27 @@
+.task{
+      border:2px solid green;
+	  margin:5px;
+	  padding:8px;
+    }
+Section{
+	background-color:orange;
+      }
+del {
+  background-color:green;
+}
+.fieldset {
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+  padding-bottom: 0.625em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  border: 2px groove (internal value);
+}
+i {
+  font-style: italic;
+}	  
+	  
+	  
+	
